@@ -5,7 +5,6 @@
 ###### date: `2024-07-0117:21:33.284Z`
 
 > [color=#724cd1][name=데릭]
-> [Modernizing Grand Central Dispatch Usage - wwdc17](https://developer.apple.com/videos/play/wwdc2017/706/)
 
 # 개요 
 
